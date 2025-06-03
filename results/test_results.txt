@@ -1,0 +1,1 @@
+Problem, En İyi Konum, En İyi Kar (Kâr), Geçen Süre (saniye), Popülasyon Boyutu, Maksimum Tekrar Sayısı, Ağırlıklar, Karlar, Kapasite
