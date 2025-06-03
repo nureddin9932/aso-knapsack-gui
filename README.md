@@ -54,9 +54,10 @@ This project applies the Atom Search Optimization (ASO) algorithm to solve the K
 
 ---
 
-## 👨‍💻 المؤلف | Author
-
+👨‍💻 المؤلف | Author
 تم تطوير هذا المشروع كجزء من تدريب جامعي لتطبيق خوارزميات الذكاء الاصطناعي في حل مشاكل تحسين.
 
-Developed as part of a university internship to apply AI optimization algorithms.
+المؤلف: نورالدين حباش – جامعة شرناق
 
+Developed by: Nouraldin Habas – Şırnak University
+As part of a university internship to apply AI optimization algorithms.
